@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImkalpeshJ
 - 👀 I’m interested in Java.
 - 💞️ I’m looking to collaborate on java projects.
-- 📫 Reach me at kalpesh121296@gmail.com
+- 📫 Reach me at kalpeshjwork@gmail.com
 
 <!---
 ImkalpeshJ/ImkalpeshJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
